@@ -7,6 +7,7 @@ import android.widget.TextView
 import android.graphics.Color
 import android.app.Activity
 import android.content.Intent
+import android.widget.Button
 
 class ResultActivity : AppCompatActivity() {
     companion object {
@@ -35,6 +36,11 @@ class ResultActivity : AppCompatActivity() {
                 findViewById<TextView>(R.id.color_code_result_message)
             resultMessage.text = getString(R.string.color_code_result_message,
                 colorCode?.uppercase())
+        }
+
+        val backButton = findViewById<Button>(R.id.back_button)
+        backButton.setOnClickListener {
+            finish()
         }
     }
 }
