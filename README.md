@@ -1,4 +1,4 @@
-ZIP APK LAB_WEEK_02_B : [Aryabell Boston Tjugito_B_Week02.zip](https://github.com/user-attachments/files/22123960/Aryabell.Boston.Tjugito_B_Week02.zip)
+ZIP APK LAB_WEEK_02_B : [Aryabell Boston Tjugito_APK_B_Week02.zip](https://github.com/user-attachments/files/22124206/Aryabell.Boston.Tjugito_APK_B_Week02.zip)
 
 SCREENSHOT :
 
